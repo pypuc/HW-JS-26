@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "handlebars": "^4.7.8",
     "parcel": "^2.14.4"
   },
   "name": "hw-js-26",
   "description": "",
   "version": "1.0.0",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
